@@ -1,0 +1,8 @@
+filters_sphinx/JWST_NIRCam_F090W.txt
+filters_sphinx/JWST_NIRCam_F115W.txt
+filters_sphinx/JWST_NIRCam_F150W.txt
+filters_sphinx/JWST_NIRCam_F200W.txt
+filters_sphinx/JWST_NIRCam_F277W.txt
+filters_sphinx/JWST_NIRCam_F356W.txt
+filters_sphinx/JWST_NIRCam_F410M.txt
+filters_sphinx/JWST_NIRCam_F444W.txt
